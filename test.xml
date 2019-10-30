@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>...</title>
+    <description>...</description>
+    <link>...</link>
+    <image>
+        <url>...</url>
+        <title>...</title>
+        <link>...</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>[UTC Time]</lastBuildDate>
+    <language>en</language>
+    <item>
+      <title>腾讯医典测试</title>
+      <pubDate>[UTC Time]</pubDate>
+      <enclosure url="https://github.com/moonlelouch/sketch/blob/master/Doctor_icon1.0.sketch" sparkle:version="[version]" length="..." type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
